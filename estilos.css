@@ -1,0 +1,40 @@
+body{
+
+
+    background-image:url(imagenes/fondocod2.png);
+}
+h3{
+    background-image: linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+    color: rgb(160, 27, 9);
+    border-bottom: 10rem;
+}
+
+
+h2{
+    background-image: linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+    color: #000;
+    text-transform: inherit;
+    text-align: center;
+
+}
+h4{
+    background-image: repeating-linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+    padding: 10px;
+}
+p{background-image: linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+    color: rgb(160, 27, 9);
+    border-bottom: 10rem;
+    
+}
+h5{
+    text-align: center;
+    text-transform:inherit;
+    padding: 10px;
+    
+    background-image: linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+    font-family: 'Courier New', Courier, monospace;
+}
+H1{
+    text-align: center;
+    background-image: linear-gradient(rgba(128, 128, 128, 0.363),azure,rgba(248, 248, 248, 0.959),rgba(128, 128, 128, 0.363));
+}
